@@ -1,2 +1,2 @@
 # Tensorflow-Samples
-Tensorflow Demos
+Tensorflow samples will be uploaded to this repository.
